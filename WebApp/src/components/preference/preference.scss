@@ -1,0 +1,40 @@
+.checkSection {
+  text-align: center;
+  column-count: 2;
+  column-gap: -100px;
+  display: inline-block;
+}
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+
+.checkboxClass {
+  color: white;
+  text-align: left;
+}
+.loginForm1 {
+  background-color: none;
+  display: grid;
+  color: white;
+  text-align: center;
+}
+.newsButtons{
+  margin: auto;
+  width: 16%;
+  padding: 10px;
+}
+.newsButtons button{
+  background-color: white;
+  color: black;
+}
+.prefMainDiv{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.prefHead{
+  padding: 20px;
+}
